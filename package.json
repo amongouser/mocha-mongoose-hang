@@ -5,12 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "mocha-mongoose": "^1.2.0",
-    "mongoose": "^4.12.0",
-    "mocha": "^3.5.3"
+    "mongoose": "^4.12.0"
   },
   "scripts": {
     "test": "mocha"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^4.0.0"
+  }
 }
